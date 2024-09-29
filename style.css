@@ -17,13 +17,13 @@ body.dark-mode {
 }
 
 .imagem-responsiva {
-    max-width:auto;
-    height:auto;
+    max-width:50%;
+    height:20%;
   }
 
 .imagem-responsiva2 {
-    max-width:auto;
-    height:auto;
+    max-width:50%;
+    height:20%;
   }
 /* mudar estilo do botão*/
 button {
