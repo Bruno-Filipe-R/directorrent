@@ -21,6 +21,10 @@ body.dark-mode {
     height: 50%;
   }
 
+.imagem-responsiva2 {
+    max-width: 50%;
+    height: 50%;
+  }
 /* mudar estilo do botão*/
 button {
     border-radius: 30px; /* Ajusta o valor para o raio desejado (arendondado)*/
