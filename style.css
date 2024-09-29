@@ -18,12 +18,12 @@ body.dark-mode {
 
 .imagem-responsiva {
     max-width: 50%;
-    height: 15%;
+    height:20%;
   }
 
 .imagem-responsiva2 {
     max-width: 50%;
-    height:15%;
+    height:20%;
   }
 /* mudar estilo do botão*/
 button {
