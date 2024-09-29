@@ -17,12 +17,12 @@ body.dark-mode {
 }
 
 .imagem-responsiva {
-    max-width: 100%;
+    max-width:auto;
     height:auto;
   }
 
 .imagem-responsiva2 {
-    max-width: 100%;
+    max-width:auto;
     height:auto;
   }
 /* mudar estilo do botão*/
